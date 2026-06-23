@@ -1,15 +1,18 @@
 # Project+ Dolphin Fork
 
-![Untitled-1](https://github.com/user-attachments/assets/3bfb148a-85d1-489d-96ae-1b7892acdc11)
+<img width="1471" height="924" alt="v+dol" src="https://github.com/user-attachments/assets/e69b9511-945b-442c-b847-199a7817a19f" />
 
 
-This fork is a heavily modified version of the Dolphin Emulator designed for usage with Project+. It includes the following features:
+This fork is a heavily modified version of the Dolphin Emulator designed for usage with REX, & Project+. It includes the following features:
 
-  * Branding, theming and iconography updates to match the Project+ aesthetic
+  * Branding, theming and iconography updates to match the Vanilla+ aesthetic
+    - Themes by Humanoidear: Lightsout (Dark Black Theme), Cleanexxed (Icons)
+      > https://github.com/Humanoidear/Lightsout (Dark Black Theme) |
+      > https://github.com/Humanoidear/Cleanexxed (Icons)
   * Netplay button on the toolbar
   * Update button on the toolbar
   * Specific aspect ratios (19:15 and 69:40 for regular and widescreen, respectively)
-  * Discord Rich Presence support for Project+
+  * Discord Rich Presence support for Vanilla+
   * Gamecube Adapter polling rate listed in controller settings
   * Pre-configured hotkeys for volume up/down and opening netplay chat
   * Automatic copying of netplay lobby code on netplay window startup
